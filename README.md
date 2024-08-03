@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://count.getloli.com/get/@:Wenranjie
+<img src="https://count.getloli.com/get/@:name" alt=":Wenranjie" />
+![:Wenranjie](https://count.getloli.com/get/@:Wenranjie)
